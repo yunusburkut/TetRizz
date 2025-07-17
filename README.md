@@ -1,0 +1,2 @@
+# TetRizz
+Burkut style tetris
